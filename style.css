@@ -1,0 +1,8 @@
+body {
+    background-color: #1dd41d;
+    color: aliceblue;
+    font-family: "Bai Jamjuree", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: cen;
+}
